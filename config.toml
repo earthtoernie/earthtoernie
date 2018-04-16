@@ -1,4 +1,4 @@
-baseURL = "https://earthtoernie.com/"
+baseURL = "https://www.earthtoernie.com/"
 languageCode = "en-us"
 title = "Ernie's site"
 theme = "hugo-theme-bootstrap4-blog"
